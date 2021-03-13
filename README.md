@@ -7,5 +7,3 @@ Homework 2 for Data Analytics Boot Camp
 1_bonus pictures: screenshots are of the output for each year
 
 2_code: contains both the main homework file and the bonus code seperatly
-
-3_executed excels: contians the practice and main excel with the code in 2_code executed in them
